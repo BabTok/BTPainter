@@ -23,7 +23,7 @@
   UIView *view = [[coordinatingController activeViewController] view];
   [window_ addSubview:view];
   [window_ makeKeyAndVisible];
-  
+  // Jaime Test
   return YES;
 }
 
